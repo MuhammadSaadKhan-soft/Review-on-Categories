@@ -1,0 +1,67 @@
+.title-style{
+    font-size: 33px;
+    font-weight: bold;
+    color: brown;
+}
+.delete-styles{
+  color:'red';
+}
+/* Custom Navbar */
+.custom-navbar {
+    background: linear-gradient(to right, #2c3e50, #4ca1af); /* Dark to Teal Gradient */
+    padding: 12px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff !important;
+    letter-spacing: 1px;
+}
+
+/* Navbar Toggler */
+.custom-toggler {
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Nav Links */
+.custom-link {
+    color: white !important;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+.custom-link:hover {
+    color: #f39c12 !important; /* Gold hover effect */
+    text-decoration: underline;
+}
+
+/* Search Bar */
+.custom-search-form {
+    display: flex;
+    align-items: center;
+}
+
+.custom-search-input {
+    border-radius: 20px;
+    border: 2px solid #f39c12; /* Gold border */
+    padding: 8px 15px;
+    width: 200px;
+}
+
+.custom-search-btn {
+    background-color: #f39c12;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 15px;
+    margin-left: 10px;
+    transition: 0.3s ease-in-out;
+}
+
+.custom-search-btn:hover {
+    background-color: #e67e22; /* Darker gold on hover */
+}
