@@ -1,5 +1,11 @@
 # Review-on-Categories
-its basically a php project through mysqli database where users share their review on questions. A simple and easy to use website for given review about question and their categories , unique color combination applied.
+its basically a php project through mysqli database where users share their review on questions. A simple and easy to use website for given review about question and their categories , unique color combination applied. 
+![image](https://github.com/user-attachments/assets/f4feca17-de69-4151-b151-3690e510e57e)
+![image](https://github.com/user-attachments/assets/a4cb8860-884a-4cf3-ab38-75a963e51bd3)
+![image](https://github.com/user-attachments/assets/6551a22d-4e97-4877-844c-9424f77441c6)
+
+
+
 README: Setting Up a PHP Project with XAMPP
 1. Introduction
 This guide will help you set up a PHP project using XAMPP, including running PHP files, setting up a database with phpMyAdmin, and accessing your project via a local server.
